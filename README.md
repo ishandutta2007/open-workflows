@@ -67,6 +67,14 @@ Open your browser and navigate to `http://localhost:5678` to start building your
 
 Congratulations! You've just created your first workflow with Open Workflows. 🎉
 
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-workflows&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-workflows&type=date&legend=top-left)
+
+
+
 ## 🙌 Contributing
 
 We welcome contributions from the community! If you'd like to contribute, please read our [Contributing Guide](CONTRIBUTING.md) and our [Code of Conduct](CODE_OF_CONDUCT.md).
