@@ -83,9 +83,10 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 -   **📚 [Documentation](https://docs.open-workflows.com):** Check out our official documentation for detailed guides and tutorials.
 -   **🗣️ [Forum](https://community.open-workflows.com):** Join our community forum to ask questions, share your projects, and connect with other users.
--   **💬 [Discord](https://discord.gg/your-invite-link):** Chat with us on Discord for real-time support and discussions.
--   **🐦 [Twitter](https://twitter.com/your-twitter-handle):** Follow us on Twitter for the latest news and updates.
+-   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
+-   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
 
+   
 ## 📄 License
 
 Open Workflows is licensed under the [Apache 2.0 License](LICENSE).
