@@ -69,7 +69,7 @@ Congratulations! You've just created your first workflow with Open Workflows. ðŸ
 
 
 
-## Star History
+### âœ¨ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-workflows&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-workflows&type=date&legend=top-left)
 
